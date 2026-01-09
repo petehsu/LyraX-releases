@@ -1,6 +1,6 @@
 # LyraX Releases
 
-![LyraX logo](./logo.svg)
+<img src="./logo.svg" alt="LyraX logo" width="180" />
 
 LyraX Releases is the public distribution repo for the LyraX CLI. It hosts
 prebuilt binaries and release notes so installs are fast, repeatable, and

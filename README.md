@@ -1,6 +1,6 @@
 # LyraX Releases
 
-<img src="./Header%20image.png" alt="LyraX header" width="480" />
+<img src="./Header%20image.png" alt="LyraX header" width="720" />
 
 LyraX Releases is the public distribution repo for the LyraX CLI. It hosts
 prebuilt binaries and release notes so installs are fast, repeatable, and
